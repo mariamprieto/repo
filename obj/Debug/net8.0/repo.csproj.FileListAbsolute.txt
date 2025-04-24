@@ -12,3 +12,4 @@ C:\Users\Maria\OneDrive\Desktop\CSE210\repo\obj\Debug\net8.0\refint\repo.dll
 C:\Users\Maria\OneDrive\Desktop\CSE210\repo\obj\Debug\net8.0\repo.pdb
 C:\Users\Maria\OneDrive\Desktop\CSE210\repo\obj\Debug\net8.0\repo.genruntimeconfig.cache
 C:\Users\Maria\OneDrive\Desktop\CSE210\repo\obj\Debug\net8.0\ref\repo.dll
+C:\Users\Maria\OneDrive\Desktop\CSE210\repo\obj\Debug\net8.0\repo.sourcelink.json
